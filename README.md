@@ -3,6 +3,3 @@
 ```javascript
 console.log("Hello world!")
 ```
-
-
-<button> Enviar </button>
