@@ -1,4 +1,4 @@
-![Texto alternativo](/src/header.gif)
+![Texto alternativo](./src/header.gif)
 <h1>Briyan Angel Bohtelo</h1>
 
 ```javascript
