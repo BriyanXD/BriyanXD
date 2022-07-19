@@ -1,4 +1,4 @@
-<img src="./src/header.gif" width="30"/>
+![Texto alternativo](/src/header.gif)
 <h1>Briyan Angel Bohtelo</h1>
 
 ```javascript
