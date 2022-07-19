@@ -2,7 +2,7 @@
 ```javascript
 console.log("Hola mundo!")
 ```
-### <Sobre mi>
+### Sobre mi
   
 ```javascript
 console.log("Hola mundo!")
