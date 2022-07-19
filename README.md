@@ -1,4 +1,4 @@
-<p style="background-colo=red"> ![Texto alternativo](./src/headerbriyan.gif) </p>
+<p> ![Texto alternativo](./src/headerbriyan.gif) </p>
 ```javascript
 console.log("Hola mundo!")
 ```
