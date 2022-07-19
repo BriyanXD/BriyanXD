@@ -10,3 +10,5 @@ y la astronomía orientado mi balanza más hacia la programación en la cual dec
 ```javascript
 console.log("SoyTambién me gusta la ciberseguridad y estoy explorando  nuevos horizontes en la web 3 y tecnologías relacionadas.")
 ```
+### Tecnologías que manejo
+
