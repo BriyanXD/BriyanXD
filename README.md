@@ -27,6 +27,5 @@ console.log("También me gusta la ciberseguridad y estoy explorando nuevos horiz
 [repositorio](https://github.com/BriyanXD/concerTeck)
 ## Conctactos
 *Linkedin* : [https://www.linkedin.com/in/briyanbohtelo/](https://www.linkedin.com/in/briyanbohtelo/)
-*Correo* : [briyana1997@gmail.com](briyana1997@gmial.com)
 
 
