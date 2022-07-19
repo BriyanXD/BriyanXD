@@ -13,7 +13,13 @@ console.log("También me gusta la ciberseguridad y estoy explorando nuevos horiz
 ## Tecnologías.
 <img src="./src/javascript.png" alt="javascript" width="50" heigth="50" /> <img src="./src/node.jpg" alt="node" width="40" heigth="40" /> <img src="./src/react.png" alt="react" width="50" heigth="50" /> <img src="./src/redux.png" alt="redux" width="50" heigth="50" /> <img src="./src/git.png" alt="git" width="50" heigth="50" /> <img src="./src/postgres.png" alt="postgres" width="50" heigth="50" /> <img src="./src/sequelize.png" alt="sequelize" width="50" heigth="50" /> <img src="./src/webpack.png" alt="webpack" width="60" heigth="60" /> <img src="./src/express.png" alt="express" width="50" heigth="50" /> <img src="./src/next.png" alt="next" width="50" heigth="50" /> <img src="./src/html.png" alt="html" width="50" heigth="50" /> <img src="./src/css.png" alt="css" width="50" heigth="50" />
 ## Proyectos.
+
 #### Dog App Henry
 <img src="./src/PI.png" alt="javascript" width="700" heigth="470"/>
 
-[visitar pagina](https://dogs-app-br.vercel.app/)
+[visitar pagina](https://dogs-app-br.vercel.app/)   [repositorio](https://github.com/BriyanXD/PI-Dogs)
+
+#### Concerteck
+<img src="./src/PF.png" alt="javascript" width="700" heigth="470"/>
+
+[visitar pagina](https://concer-teck-front-end.vercel.app/)   [repositorio](https://github.com/BriyanXD/concerTeck)
