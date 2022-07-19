@@ -11,4 +11,4 @@ y la astronomía orientado mi balanza más hacia la programación en la cual dec
 console.log("También me gusta la ciberseguridad y estoy explorando nuevos horizontes en la web 3.0 y tecnologías relacionadas.")
 ```
 ### Tecnologías que manejo
-![Texto alternativo](https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programaci-oacute-n-javascript-by-vexels.png)
+<img src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programaci-oacute-n-javascript-by-vexels.png" width="50" heigth="50" />
