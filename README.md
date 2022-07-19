@@ -8,7 +8,7 @@ console.log("Soy Briyan Bohtelo tengo 24 años residente en La Paz – Bolivia s
 y la astronomía orientado mi balanza más hacia la programación en la cual decidí convertirme en Full-Stack developer.")
 ```
 ```javascript
-console.log("SoyTambién me gusta la ciberseguridad y estoy explorando  nuevos horizontes en la web 3 y tecnologías relacionadas.")
+console.log("También me gusta la ciberseguridad y estoy explorando  nuevos horizontes en la web 3 y tecnologías relacionadas.")
 ```
 ### Tecnologías que manejo
 
